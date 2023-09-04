@@ -21,7 +21,10 @@ body {
     font-size: 14px;
     padding: 10px 10px;
 }
-
+.wrapper label {
+    color: rgba(25,34,42,.4);
+    font-weight: 500;
+}
 .wrapper input:hover {
     background-color: #e9ebec;
 }
@@ -50,10 +53,6 @@ body {
 .wrapper .cekbox {
     cursor: pointer;
 
-}
-
-.wrapper label p {
-    font-size: 14px;
 }
 
 .daftar {
